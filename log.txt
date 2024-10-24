@@ -1,0 +1,62 @@
+--------------------------
+### DEGREE: 1 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 100.0, 'class_weight': 'balanced', 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7628865979381443
+F1 SCORE (TRAINING): 0.8163265306122449
+--------------------------
+### DEGREE: 2 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 10000.0, 'class_weight': 'balanced', 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.752577319587629
+F1 SCORE (TRAINING): 0.8112244897959183
+--------------------------
+### DEGREE: 3 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.0001, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7422680412371134
+F1 SCORE (TRAINING): 0.8163265306122449
+--------------------------
+### DEGREE: 4 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 100.0, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7835051546391752
+F1 SCORE (TRAINING): 0.8418367346938774
+--------------------------
+### DEGREE: 5 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 100.0, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7835051546391752
+F1 SCORE (TRAINING): 0.8316326530612244
+--------------------------
+### DEGREE: 6 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7938144329896907
+F1 SCORE (TRAINING): 0.8418367346938774
+--------------------------
+### DEGREE: 7 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7731958762886598
+F1 SCORE (TRAINING): 0.8316326530612244
+--------------------------
+### DEGREE: 8 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7731958762886598
+F1 SCORE (TRAINING): 0.8367346938775511
+--------------------------
+### DEGREE: 9 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7731958762886598
+F1 SCORE (TRAINING): 0.8367346938775511
+--------------------------
+### DEGREE: 10 ###
+BEST PARAMETERS SET FOUND ON TRAINING SET:
+{'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
+F1 SCORE (TEST): 0.7731958762886598
+F1 SCORE (TRAINING): 0.8367346938775511
+!!! BEST DEGREE = 6
+!!! BEST PARAMETER SET = {'C': 0.01, 'class_weight': None, 'multi_class': 'ovr', 'penalty': 'l1', 'solver': 'liblinear'}
