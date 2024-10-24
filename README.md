@@ -21,7 +21,7 @@ This repository consists of two main parts:
 1. **Model Selection with Supervised Learning**
 2. **Phase Diagram Construction**
 
-The code analyze phase equlibria observations and compute globally optimized phase diagram through multi-class logic regression and supervised learning. the code can be used generalzied but the constrcution of phase relations in Mg<sub>2</sub>SiO<sub>4</sub> at mantel transiton zone conditions is used as bench mark case to ensure reproducibility and ease of use and the data on phase equlibria observations of Mg<sub>2</sub>SiO<sub>4</sub> are provided.
+The code analyzes phase equilibria observations and computes a globally optimized phase diagram through multi-class logic regression and supervised learning. The code can be used generally, but the construction of phase relations in Mg<sub>2</sub>SiO<sub>4</sub> at mantle transition zone conditions is used as a benchmark case to ensure reproducibility and ease of use, and the data on phase equilibria observations of Mg<sub>2</sub>SiO<sub>4</sub> are provided.
 
 ## Prerequisites
 The primary packages used in this code are:
