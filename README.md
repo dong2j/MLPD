@@ -1,6 +1,8 @@
 ### This repository contains the code associated with the manuscript:
 
-**"Nonlinearity of the Post-Spinel Transition and its Expression in Slabs and Plumes Worldwide"**
+**"Nonlinearity of the post-spinel transition and its expression in slabs and plumes worldwide"**
+
+If you use the code and/or database here, please cite this article: Dong, J. et al. Nonlinearity of the post-spinel transition and its expression in slabs and plumes worldwide. *Nat Commun* 16, 1039 (2025). https://doi.org/10.1038/s41467-025-56231-z
 
 #### Manuscript Authors
 - Junjie Dong
